@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 2
+}
+body{
+    background-color: rgba(211, 211, 211, 0.486);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: white;
+    padding-left: 2%;
+    height: auto;
+    margin-top: 0px;
+}
+#primo-cont{
+height: 50px;
+padding-top: 17px;
+padding-left: 50px;
+margin-top: 15px;
+}
+#secondo-cont{
+    margin-top: 1px;
+    padding-left: 50px;
+}
+.conteiner{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+.btn{
+    text-decoration: none;
+    border: 1px solid lightgray;
+    padding: 3px;
+    border-radius: 5px;
+}
+#primo-bottone{
+    background-color: rgb(31, 166, 255);
+    text-align: center;
+    color: white;
+}
+#secondo-bottone{
+    background-color: white;
+    text-align: center;
+    color: lightgray;
+}
+ul{
+    list-style: none;
+}
+.circle{
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    font-size: 10px;
+    text-align: center;
+}
+.red-circle{
+    border: 1px solid red;
+    color: red;
+    border-radius: 50%;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    font-size: 10px;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: auto;
+}
+.btn-cat{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+    font-size: small;
+    padding-left: 3px;
+    padding-right: 3px;
+    display: inline-block;
+    height: 27px;
+}
+.btn-blu{
+    background-color: rgba(10,169,237,255);}
+.btn-viola{
+    background-color: rgba(171,93,230,255);}
+.btn-verde{
+    background-color: rgba(44,198,171,255);}
+.btn-arancio{
+    background-color: rgba(255,155,0,255);}
+.btn-verdino{
+    background-color: rgba(163,209,23,255);}
